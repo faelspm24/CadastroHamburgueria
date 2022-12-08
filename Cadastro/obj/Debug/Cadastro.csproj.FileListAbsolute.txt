@@ -1,0 +1,52 @@
+C:\Users\aluno\Documents\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\aluno\Documents\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\aluno\Documents\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\aluno\Documents\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\aluno\Documents\Cadastro\Cadastro\obj\Debug\Cadastro.frmCli.resources
+C:\Users\aluno\Documents\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\aluno\Documents\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\aluno\Documents\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmCli.resources
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmLogin.resources
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmSplash.resources
+F:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmMenu.resources
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmCli.resources
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmLogin.resources
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmMenu.resources
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmProduto.resources
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmSplash.resources
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+G:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmCli.resources
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmLogin.resources
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmMenu.resources
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmProduto.resources
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.frmSplash.resources
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+D:\ETEC - ANÁLISE  E DESENVOLVIMENTO DE SISTEMAS\Professor Hélio - C#\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
